@@ -1,0 +1,2 @@
+# Lenovo-R7000-2020-4800H
+Lenovo-R7000-2020-4800H-Hackintosh
