@@ -133,3 +133,7 @@ EFI已制作完成，分为安装前和安装后，原因是安装前不建议�
 ![IMG_3916](images/IMG_3916.jpeg)
 
 7、然后就可以进入系统了。
+
+链接: https://pan.baidu.com/s/1GIX0pO2hUIEVZh-O0N_azA?pwd=rc6e 提取码: rc6e
+
+留下EFI，自行研究吧
