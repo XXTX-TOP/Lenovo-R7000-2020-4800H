@@ -1,6 +1,6 @@
 # Lenovo-R7000-2020-4800H
 Lenovo-R7000-2020-4800H-Hackintosh
-# 耻辱柱： http://www.imacosx.cn/113996.html 千万别去这里下载！！！！
+# 耻辱柱： http://www.imacosx.cn/113996.html 千万别去这里下载！！！！正确下载地址：链接: https://pan.baidu.com/s/1GIX0pO2hUIEVZh-O0N_azA?pwd=rc6e 提取码: rc6e
 黑苹果教程
 
 ![Snipaste_2023-06-13_21-15-45](images/Snipaste_2023-06-13_21-15-45.png)
